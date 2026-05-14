@@ -1,4 +1,4 @@
-# 
+# secure ftx trading bot Utility | price-monitoring + liquidity-provision is the best ftx trading bot, featuring price-monitoring and liquidity-provision. Smart, fast, and optimized
 
 
 
